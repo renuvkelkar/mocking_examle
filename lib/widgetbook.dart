@@ -22,7 +22,7 @@ class WidgetbookApp extends StatelessWidget {
               data: ThemeData.light(),
             ),
           ],
-        )
+        ),
       ],
       directories: [
         WidgetbookComponent(
